@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Alex Chung."
+title: "Hi. My name is Alex Chung."
 email: 'awchung1357@gmail.com'
 description: "I'm a backend software developer based in NYC working in the startup space. Mainly work in Python, Docker, Kubernetes, and AWS."
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -102,3 +102,5 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
+  - { url: '/resume', text: 'Resume' }
+  - { url: '/blog', text: 'Blog' }
