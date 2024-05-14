@@ -8,9 +8,9 @@ permalink: /about/
 Hi, I'm a backend software engineer based in NYC. 
 
 **Interests:**
-- sports
 - rock climbing
-- games/film
+- games
+- film
 - music
 
 <!-- <img src="/img/IMG_2384.jpg" alt="drawing" style="width:300px;height:400px"/> -->
