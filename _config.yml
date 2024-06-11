@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://alexchung1233.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_url: 'https://www.linkedin.com/in/alex-chung-1b2170164/'
 github_username: 'alexchung1233'
-
+substack_url: 'https://awchung1357.substack.com/'
 
 # Build settings
 markdown: kramdown

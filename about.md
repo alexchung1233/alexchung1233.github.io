@@ -8,9 +8,5 @@ permalink: /about/
 
 Hi, I'm a backend software engineer currently living in NYC. 
 
-My interests include:
-- rock climbing
-- games
-- film
-- music
+My current interests now are rock climbing (projecting a V8) and music production. 
 
