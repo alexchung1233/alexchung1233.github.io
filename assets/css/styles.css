@@ -807,6 +807,7 @@ body[data-theme="dark"] .text-muted {
   .header .profile-image {
     float: none !important;
     margin: 0 auto;
+    max-width: 300px;
   }
   .header .profile-content {
     float: none !important;
