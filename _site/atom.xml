@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello and welcome.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2024-10-22T13:06:11-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Alex Chung</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>My Climbing Journal</title>
+   <link href="http://localhost:4000/development/2024/10/22/my-climbing-journal.html"/>
+   <updated>2024-10-22T11:56:00-04:00</updated>
+   <id>http://localhost:4000/development/2024/10/22/my-climbing-journal</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>
